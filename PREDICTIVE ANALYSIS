@@ -6,7 +6,7 @@ from sklearn.metrics import classification_report, accuracy_score
 
 # Load dataset
 # Replace with your actual dataset path if needed
-df = pd.read_csv("sample_data.csv")
+df = pd.read_csv("sample_data_csv")
 
 # Print the first few rows
 print("Dataset Preview:")
