@@ -46,8 +46,7 @@ feature1,feature2,target
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/ml-predictive-model.git
-cd ml-predictive-model
+git clone : (https://github.com/MANISHA-K1230/INTERNSHIP2-PREDICTIVE-ANALYSIS)
 
 ### 2. Install Required Libraries
 
